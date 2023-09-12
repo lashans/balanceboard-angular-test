@@ -1,0 +1,15 @@
+.toolbar {
+    font-family: 'Papyrus';
+    font-size: x-large;
+    background: lime;
+    height: var(--toolbarHeight);
+    display: flex;
+}
+
+.content {
+    font-family: 'Comic Sans MS';
+    background: DeepPink;
+    color: white;
+    height: 100vh
+}
+
